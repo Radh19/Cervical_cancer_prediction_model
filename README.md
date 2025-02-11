@@ -6,11 +6,18 @@ Install Necessary Modules:
 Open your Anaconda Prompt propmt and type and run the following command (individually):
 
   pip install pandas
-  pip install numpy  
+  
+  pip install numpy 
+  
   pip install seaborn
+  
   pip install plotly
+  
   pip install jupyterthemes
+  
   pip install seaborn
+  
   pip install --upgrade pip
+  
   pip install xgboost
 
