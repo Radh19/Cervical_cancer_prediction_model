@@ -13,4 +13,4 @@ Open your Anaconda Prompt propmt and type and run the following command (individ
   pip install seaborn
   pip install --upgrade pip
   pip install xgboost
-Once Installed now we can import it inside our python code.
+
