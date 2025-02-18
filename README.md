@@ -4,6 +4,7 @@ Cervical Cancer Risk Prediction Using Machine Learning
 
 This project aims to predict cervical malignancy risk using machine learning models, with a focus on data preprocessing, exploratory data analysis (EDA), and model optimization. The primary objective is to develop a high-accuracy predictive model that can assist in early diagnosis and risk assessment.
 
+
 🛠️ Technologies Used
 
 Python (Pandas, NumPy, Scikit-Learn, XGBoost)
@@ -15,6 +16,7 @@ Matplotlib & Seaborn (for EDA and heatmap visualization)
 Fairlearn (for bias analysis and fairness evaluation)
 
 Principal Component Analysis (PCA) (for feature reduction)
+
 
 📊 Data Processing & Analysis
 
@@ -32,6 +34,7 @@ Correlation analysis & feature importance
 
 Heatmap visualization to identify relationships among variables
 
+
 🤖 Machine Learning Model
 
 Model Used: XGBoost (achieved 92% accuracy)
@@ -40,7 +43,6 @@ Performance Metrics:
 
 F1-score for balanced classification
 
-Bias analysis (reduced disparity across demographic groups by 20%)
 
 Training & Validation:
 
